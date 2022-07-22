@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the weekly memos assigned for the
+  course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: dc717934-bfad-9258-6b2f-9585a8f7bb6c
 ---
