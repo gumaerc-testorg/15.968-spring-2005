@@ -98,9 +98,9 @@ Burt, Ronald S. _Towards a Structural Theory of Action_. New York, NY: Academic 
 
 ———. "Range." In _Applied Network Analysis_. Edited by Ronald S. Burt, and Michael J. Minor. 1983. ISBN: 0803919077.
 
-———. "Bridge Decay." In _Social Networks_. 2002. Forthcoming. ({{% resource_link "4bf48cdc-0721-4105-9947-2021c32ae0bb" "PDF" %}})
+———. "Bridge Decay." In _Social Networks_. 2002. Forthcoming. ([PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.200.9936&rep=rep1&type=pdf))
 
-———. "Structural Holes vs. Network Closure as Social Capital." In _Social Capital: Theory and Research_. Edited by Nan Lin, Karen S. Cook, and R. S. Burt. 2001. Aldine de Gruyter. ({{% resource_link "59f486f3-ae88-4b77-8347-3cb02a924fb5" "PDF" %}})
+———. "Structural Holes vs. Network Closure as Social Capital." In _Social Capital: Theory and Research_. Edited by Nan Lin, Karen S. Cook, and R. S. Burt. 2001. Aldine de Gruyter. ([PDF](http://snap.stanford.edu/class/cs224w-readings/burt00capital.pdf))
 
 Cook, Karen S., Richard M. Emerson, Mary R. Gillmore, and Toshio Yamagishi. "The distribution of power in exchange networks: theory and experimental results." _American Journal of Sociology_ 89 (1983): 275-305.
 
@@ -176,7 +176,7 @@ Page, Karen L., and Joel M. Podolny. "Network Forms of Organization." _Annual Re
 
 Polanyi, Karl. _The Great Transformation_. New York, NY: Farrar & Rinehart, 1944.
 
-Powell, Walter W. "{{% resource_link "08b7f2a7-eb43-443b-b495-928d3d80f133" "Neither Market nor Hierarchy: Network Forms of Organization" %}}." _Research in Organizational Behavior_ 12 (1990): 295-396.
+Powell, Walter W. "[Neither Market nor Hierarchy: Network Forms of Organization](http://www.stanford.edu/~woodyp/nmnh/nmnh_frame.htm)." _Research in Organizational Behavior_ 12 (1990): 295-396.
 
 Robinson, David T., and Toby E. Stuart. "Just How Incomplete Are Incomplete Contracts? Evidence from Biotech Strategic Alliances." Unpublished manuscript, University of Chicago Graduate School of Business, 2002.
 
